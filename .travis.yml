@@ -4,3 +4,4 @@ jdk:
 script: 
   - mvn compile
   - mvn spotbugs:spotbugs
+  - mvn spotbugs:gui
